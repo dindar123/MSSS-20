@@ -1,6 +1,6 @@
 # MSSS-20
 A look at the current normative dataset for the Megalophobia Severity Screening Scale
-The Megalophobia Severity Screening Scale (MSSS-20) is a 20-item self-report measure designed to screen for megalophobia — discomfort or fear related to very large objects, structures, or spaces. Since data collection opened on June 11, 2026, the dataset has grown to 359 participant responses from 37 countries, collected over roughly two months (through July 14, 2026).
+The Megalophobia Severity Screening Scale (MSSS-20) is a 20-item self-report measure designed to screen for megalophobia — discomfort or fear related to very large objects, structures, or spaces. Since data collection opened on June 11, 2026, the dataset has grown to 359 participant responses from 37 countries, collected over roughly two months (through July 14, 2026). The data is collected from intractive version <a href="https://drdeenz.com/megalophobia-test/">megalophobia test</a>. 
 
 Anthropic's overall assessment classifies the dataset as "Strong," scoring 70 out of 100 on a composite maturity index that weighs sample size, geographic spread, and internal consistency.
 
